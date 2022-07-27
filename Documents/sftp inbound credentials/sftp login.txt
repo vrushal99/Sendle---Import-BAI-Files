@@ -1,0 +1,9 @@
+Below are the unique SFTP login credentials that you will need to access the SVB server. Please test them and let me know if they’re functional.  
+
+
+
+User Name: sendusaach0513
+
+SFTP Site: mftprd.svb.com
+
+Port: 9122

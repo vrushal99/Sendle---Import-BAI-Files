@@ -1,0 +1,8 @@
+SuiteApps -
+1) SFTP Connector
+2) Bank Feeds
+3) Auto Bank Statement Import
+
+SuiteBundler - 
+1) Bundle Name: Bank Statement Parsers
+   Bundle ID: 293699
